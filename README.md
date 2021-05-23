@@ -1,0 +1,2 @@
+# JAMHacks-V
+Exercise AI
